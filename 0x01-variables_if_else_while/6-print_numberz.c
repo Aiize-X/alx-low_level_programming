@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - print all single digit numbers using only putchar
  *
@@ -13,5 +14,4 @@ int main(void)
 		putchar(digit + '0');
 	putchar('\n');
 	return (0);
-
 }
