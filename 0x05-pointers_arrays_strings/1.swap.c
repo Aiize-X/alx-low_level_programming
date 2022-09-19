@@ -7,7 +7,6 @@
 *@b: value to be evaluate.
 *Return:
 */
-
 void swap_int(int *a, int *b)
 {
 
